@@ -1,4 +1,4 @@
-my-current-frontend-dev-tools
-=============================
+My Current Front End Dev Tools
+==============================
 
-A list of current tools I am using in my day to day front end development.
+This is a list I am going to maintain of all the tools I am currently using along with any relevant articles or docs that helped me decide or use these tools.
